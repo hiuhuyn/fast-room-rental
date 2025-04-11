@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899216462209",
+    "project_id": "fast-room-rental",
+    "storage_bucket": "fast-room-rental.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899216462209:android:d77c4470dfe26461111880",
+        "android_client_info": {
+          "package_name": "com.mycompany.fastroomrental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7pT2Ofd14OZKRvmKEvb-ORk69jGy2Px8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+
+abstract class FFAppConstants {
+  static const String ApiKeyAnon =
+      'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRwYXF1dmhnY2Jnd3FqY3ZzcHByIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzcyOTQyNzIsImV4cCI6MjA1Mjg3MDI3Mn0.u3iBr6J1Pw93fxSymBjaPX_33mnbKvAHRloImDSVig0';
+}
