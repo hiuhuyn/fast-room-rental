@@ -70,20 +70,6 @@ class _LandlordInformationWidgetState extends State<LandlordInformationWidget> {
               context.safePop();
             },
           ),
-          actions: [
-            FlutterFlowIconButton(
-              borderRadius: 8.0,
-              buttonSize: 40.0,
-              icon: Icon(
-                Icons.keyboard_control_rounded,
-                color: FlutterFlowTheme.of(context).primaryText,
-                size: 24.0,
-              ),
-              onPressed: () {
-                print('IconButton pressed ...');
-              },
-            ),
-          ],
           centerTitle: false,
           title: Text(
             'Thông tin chủ trọ',
